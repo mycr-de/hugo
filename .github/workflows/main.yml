@@ -15,12 +15,24 @@ jobs:
        uses: peaceiris/actions-hugo@v2
        with:
          hugo-version: 'latest'
-         extended: true
-     - name: Build
-       run: hugo --minify
-     - name: Deploy
-       uses: peaceiris/actions-gh-pages@v3
-       with:
-         github_token: $Vorlage:Secrets.GITHUB TOKEN
-         publish_dir: ./public
-         cname: hg.mycr.de
+         extended: true 
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 'latest'
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - run: npm ci         
+      - name: Build
+        run: hugo --minify
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: $Vorlage:Secrets.GITHUB TOKEN
+          publish_dir: ./public
+          cname: hg.mycr.de
