@@ -1,6 +1,6 @@
 ---
-title: "Test Blog-Eintrag"
+title: "Neuigkeiten 1"
 date: 2021-02-16T05:20:39+01:00
 ---
 
-Statisches Webseite mit Hugo.
+Ein erster Beitrag.
