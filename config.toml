@@ -4,3 +4,30 @@ languageCode = "de"
 DefaultContentLanguage = "de"
 paginate = "10" # Number of posts per page
 theme = "hugo-dpsg"
+
+
+[Author] # Used in authorbox
+name = "Jan Beu"
+bio = "Vorstandvorsitzender"
+avatar = "img/avatar.png"
+
+[Params.logo]
+image = "img/MYCR-Stander-wehend-100.png" # Logo image. Path relative to "static"
+header = "img/rostock_header.png" # Header image. Path relative to "static"
+title = "Mecklenburgischer Yachtclub Rostock" # Logo title, otherwise will use site title
+subtitle = "Seit 1884 · Uferpromenade 5a · 18147 Rostock" # Logo subtitle
+
+[Params.style.vars]
+highlightColor = "#2268ba" # Override main theme color
+
+[Params.footer]
+text = "[Impressum](/imprint)" # Extra text in footer row, understands markdown
+
+[Params.sidebar]
+home = "right" # Configure layout for home page
+list = "left"  # Configure layout for list pages
+single = false # Configure layout for single pages
+# Enable widgets in given order
+widgets = ["search", "recent", "recent_photos", "categories", "taglist", "social", "languages"]
+# alternatively "ddg-search" can be used, to search via DuckDuckGo
+# widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
