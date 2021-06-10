@@ -242,7 +242,7 @@ textarea {
 
 .btn:hover {
 	color: #fff;
-	background: #e22d30;
+	background: #2268ba;
 }
 
 /* Typography */
@@ -256,7 +256,7 @@ h6 {
 	margin: 0 0 1.25rem;
 	font-weight: 700;
 	line-height: 1.3;
-	color: #e22d30;
+	color: #2268ba;
 }
 
 h1 {
@@ -290,12 +290,12 @@ h6 {
 }
 
 a {
-	color: #e22d30;
+	color: #2268ba;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #e22d30;
+	color: #2268ba;
 }
 
 hr {
@@ -401,7 +401,7 @@ blockquote {
 	margin: 0 0 20px;
 	margin: 0 0 1.25rem;
 	line-height: 1.6;
-	border-left: 5px solid #e22d30;
+	border-left: 5px solid #2268ba;
 }
 
 blockquote p:last-child {
@@ -485,7 +485,7 @@ select {
 
 .logo {
 	padding: 25px;
-	
+	background: url(/img/rostock_header.png) center/cover no-repeat
 }
 
 .logo__link {
@@ -523,7 +523,7 @@ select {
 	font-size: 2rem;
 	font-weight: 700;
 	line-height: 1;
-	color: #e22d30;
+	color: #2268ba;
 	text-shadow: 0px 0px 5px #fff;
 }
 
@@ -535,7 +535,7 @@ select {
 	font-size: .875rem;
 	font-weight: 700;
 	line-height: 1;
-	color: #e22d30;
+	color: #2268ba;
 	text-shadow: 0px 0px 5px #fff;
 	border-top: 1px solid #9d9d9d;
 }
@@ -543,7 +543,7 @@ select {
 .divider {
 	height: 5px;
 	margin: 0;
-	background: #e22d30;
+	background: #2268ba;
 	border: 0;
 }
 
@@ -553,7 +553,7 @@ select {
   position: -webkit-sticky;
   top: 0;
   z-index: 1;
-	background: #e22d30;
+	background: #2268ba;
 	line-height: 1.5;
 	padding: 0;
 }
@@ -568,7 +568,7 @@ select {
 	padding: 0;
 	font: inherit;
 	color: #fff;
-	background: #e22d30;
+	background: #2268ba;
 	border: 0;
 	outline: 0;
 }
@@ -590,7 +590,7 @@ select {
 }
 
 :focus > .menu__btn-title {
-	box-shadow: inset 0 0 1px 3px #e22d30;
+	box-shadow: inset 0 0 1px 3px #2268ba;
 }
 
 button:not(:-moz-focusring):focus > .menu__btn-title {
@@ -611,7 +611,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .menu__item:hover {
-	background: #e22d30;
+	background: #2268ba;
 }
 
 .menu__item:first-child {
@@ -665,7 +665,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .js .menu__list--active {
-	background: #e22d30;
+	background: #2268ba;
 	visibility: visible;
 	border-top: 1px solid rgba(255, 255, 255, .1);
 	border-bottom: 1px solid rgba(255, 255, 255, .1);
@@ -685,7 +685,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 	/* move left arrow to bottom */
 	.menu__link::after {
-		border-left-color: #e22d30;
+		border-left-color: #2268ba;
 		border-bottom-color: #ffffff;
 		position: absolute;
 		bottom: 0;
@@ -762,7 +762,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .meta a:hover {
-	color: #e22d30;
+	color: #2268ba;
 }
 
 .meta__item {
@@ -819,13 +819,13 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .warning a,
 .authorbox__description a {
 	font-weight: 700;
-	color: #e22d30;
+	color: #2268ba;
 }
 
 .content a:hover,
 .warning a:hover,
 .authorbox__description a:hover {
-	color: #e22d30;
+	color: #2268ba;
 	text-decoration: underline;
 }
 
@@ -907,7 +907,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .tags__item:hover {
-	background: #e22d30;
+	background: #2268ba;
 }
 
 .tags__link,
@@ -922,7 +922,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	height: 32px;
 	padding: 8px;
 	margin-right: 6px;
-	background: #e22d30;
+	background: #2268ba;
 	fill: #fff;
 }
 
@@ -980,7 +980,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .toc__menu a {
 	display: block;
 	padding: 5px 10px;
-	color: #e22d30;
+	color: #2268ba;
 	border-bottom: 1px solid #ebebeb;
 }
 
@@ -1068,7 +1068,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .pagination__item:hover,
 .pagination__item--current {
 	color: #fff;
-	background: #e22d30;
+	background: #2268ba;
 }
 
 /* Pager (prev/next links) navigation */
@@ -1190,7 +1190,7 @@ input[type=reset] {
 
 input[type=submit]:hover,
 input[type=reset]:hover {
-	background: #e22d30;
+	background: #2268ba;
 }
 
 textarea {
@@ -1219,7 +1219,7 @@ textarea {
 	font-size: 16px;
 	font-size: 1rem;
 	text-transform: uppercase;
-	border-bottom: 3px solid #e22d30;
+	border-bottom: 3px solid #2268ba;
 }
 
 .widget__item {
@@ -1298,7 +1298,7 @@ textarea {
 
 .widget-languages__link:hover .widget-languages__link-btn {
 	color: #fff;
-	background: #e22d30;
+	background: #2268ba;
 }
 
 .widget-languages__link-btn {
