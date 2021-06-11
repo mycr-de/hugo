@@ -67,7 +67,7 @@ sitemap_hide: false # Do not add this page to the sitemap
 | 04.12.2021 - 14:30 | Weihnachtsfeier der Jugend |
 | 26.12.2021 - 10:00 | Weihnachts-Frühschoppen |
 | 28.01.2022 - 19:00 | 1. Clubversammlung 2021 |
-| 19.02.2022 - 09:00 | Ordentliche Mitgliederversammlung 2021 |
+| 19.02.2022 - 09:00 | Ordentliche Mitgliederversammlung 2022 |
 |  Winterlager (Jugend) 2022 |
 
 
