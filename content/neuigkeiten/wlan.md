@@ -16,7 +16,7 @@ thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
 thumbnail_hide_post: true # Hide thumbnail on single post view
 lead: "Neues WLAN in Betrieb" # Lead text
 authorbox: false # Enable authorbox for specific page
-pager: true # Enable pager navigation (prev/next) for specific page
+pager: false # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
 widgets: # Enable sidebar widgets in given order per page

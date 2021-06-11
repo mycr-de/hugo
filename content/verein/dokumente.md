@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Dokumente zum Download als PDF"
 #date: "2017-08-21"
-weight: 3
+weight: 5
 description: "Alle wichtigen Dokumente"
 categories:
   - "Vereinsleben"
