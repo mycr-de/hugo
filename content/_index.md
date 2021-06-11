@@ -30,6 +30,6 @@ Dies ist die neue Webpräsens des Meckenburgischen Yachtclubs Rostock.
 
 Bitte habt dafür Verständnis, dass noch nicht alle Inhalte übertragen worden sind.
 
-Die alte Seite musste aus Sicherheitsgründen eingefroren werden, ihr findet sie hier (LINK).
+Die alte Seite musste aus Sicherheitsgründen eingefroren werden, ihr findet sie hier https://archive.mycr.de.
 
 Wir arbeiten daran, so schnell wie möglich alle Inhalte zu übertragen.
