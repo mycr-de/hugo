@@ -24,7 +24,15 @@ widgets: # Enable sidebar widgets in given order per page
   - "recent"
   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap
+
 ---
 
+[Satzung des MYCR (ab 5.6.2021)](../pdf/1.8_Satzung_des_MYCR_ab_05.06.2021_FINAL.pdf)
 
-hier kommen die Dokuemnte hin
+[Geschäftsordnung des MYCR (ab 5.6.2021)](../pdf/2.6_Geschäftsordnung_des_MYCR_ab_5.6.2021_FINAL.pdf)
+
+[Gebührenübersicht (ab 5.6.2021)](../pdf/3.3_Gebührenübersicht_ab_5.6.2021.pdf)
+
+[Schließdienst (2021/2022)](../pdf/Schließdienst_2021_2022_FINAL.pdf)
+
+[MYCR Veranstaltungen (2021)](../pdf/MYCR_Veranstaltungen_2021.pdf)
