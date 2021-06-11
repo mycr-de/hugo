@@ -8,7 +8,7 @@ categories:
 tags:
   - "Verein"
   - "Information"
-menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
+menu: ["main", "side"] # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
 thumbnail: "img/placeholder.jpg" # Thumbnail image
@@ -27,4 +27,4 @@ sitemap_hide: false # Do not add this page to the sitemap
 
 
 
-Beim Mecklenburgischen Yachtclub Rostock e.V. wird das Vereinsleben besonders groß geschrieben: Viele Veranstaltungen am und auf dem Wasser bieten Gelegenheit, Freizeit und Sport miteinander zu gestalten. Auch für die Pflege und Erhaltung unseres Geländes und unserer Einrichtung wird gemeinschaftlich Sorge getragen. Und nicht zuletzt trifft man immer jemanden für einen kleinen Schnack auf dem Steg...
+

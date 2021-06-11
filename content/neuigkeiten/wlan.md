@@ -8,14 +8,14 @@ categories:
   - "Vereinsleben"
 tags:
   - "WLAN"
-  - "Informationen"
+  - "Information"
 #menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
 thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
 thumbnail_hide_post: true # Hide thumbnail on single post view
 lead: "Neues WLAN in Betrieb" # Lead text
-authorbox: true # Enable authorbox for specific page
+authorbox: false # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
