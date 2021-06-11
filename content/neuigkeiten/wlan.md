@@ -27,4 +27,4 @@ sitemap_hide: false # Do not add this page to the sitemap
 
 ---
 
-Die Installation des Brücken-WLAN ist nun abgeschlossen und heißt MYCR mit dem Passwort ********** . Für diejenigen, die auf der Brücke über MYCR keinen Empfang haben, loggen sich bitte über die ebenfalls verstärkte „OPEN-NET-Initiative“ ein.
+Die Installation des Brücken-WLAN ist nun abgeschlossen und heißt MYCR mit dem Passwort ********** . Für diejenigen, die auf der Brücke über MYCR keinen Empfang haben, loggen sich bitte über die ebenfalls verstärkte „join.opennet-initiative.de“ ein.
