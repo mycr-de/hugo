@@ -4,11 +4,10 @@ title: "Dokumente"
 date: "2017-08-21"
 description: "Alle wichtigen Dokumente"
 categories:
-  - "Category 1"
-  - "Category 2"
+  - "Vereinsleben"
 tags:
-  - "Verein"
-  - "Informationen"
+  - "Download"
+  - "Information"
 menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params

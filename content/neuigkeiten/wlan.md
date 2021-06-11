@@ -1,18 +1,20 @@
 ---
 # Common-Defined params
-title: ""
+title: "Wlan"
+date: 2021-06-11T15:35:53+02:00
 date: "2017-08-21"
-description: "Home"
+description: "Neues WLAN in Betrieb"
 categories:
+  - "Vereinsleben"
 tags:
-  - "Verein"
+  - "WLAN"
   - "Informationen"
-menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
+#menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
-thumbnail: "img/placeholder.jpg" # Thumbnail image
+thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
 thumbnail_hide_post: true # Hide thumbnail on single post view
-lead: "Informationen zum Verein" # Lead text
+lead: "Neues WLAN in Betrieb" # Lead text
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
@@ -22,14 +24,7 @@ widgets: # Enable sidebar widgets in given order per page
   - "recent"
   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap
+
 ---
 
-
-
-Dies ist die neue Webpräsens des Meckenburgischen Yachtclubs Rostock.
-
-Bitte habt dafür Verständnis, dass noch nicht alle Inhalte übertragen worden sind.
-
-Die alte Seite musste aus Sicherheitsgründen eingefroren werden, ihr findet sie hier (LINK).
-
-Wir arbeiten daran, so schnell wie möglich alle Inhalte zu übertragen.
+Die Installation des Brücken-WLAN ist nun abgeschlossen und heißt MYCR mit dem Passwort ********** . Für diejenigen, die auf der Brücke über MYCR keinen Empfang haben, loggen sich bitte über die ebenfalls verstärkte „OPEN-NET-Initiative“ ein.

@@ -4,11 +4,11 @@ title: "Termine"
 date: "2017-08-21"
 description: "Alle wichtigen Termine"
 categories:
-  - "Category 1"
-  - "Category 2"
+  - "Vereinsleben"
+  - "Segeln"
 tags:
-  - "Verein"
-  - "Informationen"
+  - "Termine"
+  - "Information"
 menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
@@ -30,7 +30,7 @@ sitemap_hide: false # Do not add this page to the sitemap
 | Datum  | Veranstaltung | 
 | ------------- | ------------- | 
 | 31.01.2021 - 09:00 | anLANd-Regatta "Blaues Band der Leuchtdioden" |
-| 13.03.2021 - 09:00 | Arbeitseinsatz 1 |
+| **13.03.2021 - 09:00** | **Arbeitseinsatz 1** |
 | 02.04.2021 | Karfreitag |
 | 05.04.2021 | Ostermontag |
 | 10.04.2021 - 06:30 | Krantermin Part 1 (Gitana, Galanthus, Tambari) |
@@ -41,7 +41,7 @@ sitemap_hide: false # Do not add this page to the sitemap
 | 13.05.2021 | Herrentag / Vatertag |
 | 13.05.2021 bis 16.05.2021 | Herrentagsregatta |
 | 22.05.2021 - 09:00 | Pfingstregatta Kühlungsborn 2021 (bis 23.5.2021) |
-| 29.05.2021 - 09:00 | Arbeitseinsatz 2 - GROSSeinsatz |
+| **29.05.2021 - 09:00** | **Arbeitseinsatz 2 -- GROSSeinsatz** |
 | 05.06.2021 - 09:00 | Ordentliche Mitgliederversammlung 2022 |
 | 19.06.2021 - 10:00 | Sonnenwendfeier |
 | 21.06.2021 | Ferienbeginn (bis 31.7.2021) |
@@ -54,12 +54,12 @@ sitemap_hide: false # Do not add this page to the sitemap
 | 11.09.2021 (Ganztägig) | 58. "Blaues Band der Warnow" 2021 (Langstrecke) |
 | 18.09.2021 bis 19.09.2021 | "Blaues Band der Warnow" 2021 (Jugendbootsklassen) |
 | 18.09.2021 (Ganztägig) | Sandemann Cup (YCW) |
-| *25.09.2021 - 09:00* | *Arbeitseinsatz 3* |
+| **25.09.2021 - 09:00** | **Arbeitseinsatz 3** |
 | 25.09.2020 bis 26.09.2020 | EcoleaCup (ROYC) |
 | 09.10.2021 - 10:00 | Absegeln |
 | 23.10.2021 - 06:30 | Krantermin Wiesen-Schiffe >Part 1< (Änderung möglich!!) |
 | 30.10.2021 - 06:30 | Krantermin Wiesen-Schiffe >Part 2< (Änderung möglich!!) |
-| 06.11.2021 - 09:00 | Arbeitseinsatz 4 |
+| **06.11.2021 - 09:00** | **Arbeitseinsatz 4** |
 | 06.11.2021 - 18:30 | Traditionelles Labskausessen |
 | 12.11.2021 - 19:00 | Clubversammlung |
 | 13.11.2021 - 11:11 | Seglerball |
@@ -69,3 +69,6 @@ sitemap_hide: false # Do not add this page to the sitemap
 | 28.01.2022 - 19:00 | 1. Clubversammlung 2021 |
 | 19.02.2022 - 09:00 | Ordentliche Mitgliederversammlung 2021 |
 |  Winterlager (Jugend) 2022 |
+
+
+Zum Download als PDF: [MYCR Veranstaltungen (2021)](../pdf/MYCR_Veranstaltungen_2021.pdf)
