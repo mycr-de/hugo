@@ -7,7 +7,6 @@ description: "Die Geschäftsordnung des Vereins gültig ab dem 5.6.2021"
 categories:
   - "Vereinsleben"
 tags:
-  - "Download"
   - "Information"
   - "Verein"
 #menu: ["side", "footer"] # Optional, add page to a menu. Options: main, side, footer
