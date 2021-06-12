@@ -1,6 +1,6 @@
 ---
 # Common-Defined params
-title: "Wlan"
+title: "WLAN"
 date: 2021-06-11T15:35:53+02:00
 date: "2017-08-21"
 description: "Neues WLAN in Betrieb"
@@ -27,4 +27,4 @@ sitemap_hide: false # Do not add this page to the sitemap
 
 ---
 
-Die Installation des Brücken-WLAN ist nun abgeschlossen und heißt MYCR mit dem Passwort ********** . Für diejenigen, die auf der Brücke über MYCR keinen Empfang haben, loggen sich bitte über die ebenfalls verstärkte „join.opennet-initiative.de“ ein.
+Die Installation des Brücken-WLAN ist nun abgeschlossen und heißt MYCR. Das Passwort findet ihr im Schaukasten bzw. haben alle Vereinsmitglieder per E-Mail erhalten. Für diejenigen, die auf der Brücke über MYCR noch keinen Empfang haben, loggen sich bitte über die ebenfalls verstärkte „join.opennet-initiative.de“ ein.
