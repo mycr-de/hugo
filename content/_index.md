@@ -28,7 +28,7 @@ Beim Mecklenburgischen Yachtclub Rostock e.V. wird das Vereinsleben besonders gr
 
 In eigener Sache:
 
-Dies ist die neue Webpräsens des Meckenburgischen Yachtclubs Rostock. Bitte habt dafür Verständnis, dass noch nicht alle Inhalte übertragen worden sind. Die alte Seite findet unter http://archiv.mycr.de.
+Dies ist die neue Webpräsens des Meckenburgischen Yachtclubs Rostock. Bitte habt dafür Verständnis, dass noch nicht alle Inhalte übertragen worden sind. Die alte Seite findet ihr unter http://archiv.mycr.de.
 
 Wir arbeiten daran, so schnell wie möglich alle Inhalte zu übertragen.
 
