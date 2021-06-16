@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "OMV2021"
-date: "2017-08-21"
+date: "2021-06-12"
 description: "ordentliche Mitgliederversammlung Juni 2021"
 categories:
   - "Vereinsleben"
