@@ -25,9 +25,9 @@ sitemap_hide: false # Do not add this page to the sitemap
 
 ---
 
-Am kommenden Samstag den 19. Juni können wir endlich wieder ein wenig feiern. Das brauchen wir aber auch alle nach dieser doch enthaltsamen Zeit…
+Am kommenden Samstag den *19. Juni* können wir endlich wieder ein wenig feiern. Das brauchen wir aber auch alle nach dieser doch enthaltsamen Zeit…
 
-Wir treffen uns traditionell um 10 Uhr auf der Wiese und gehen dann anschließend zusammen segeln oder motoren – wie jeder möchte. Der Tag soll Freude und Spaß verbreiten. Also sind alle „Streitigkeiten“, „Fiese Sprüche“ oder gar Schlägereien am Samstag nicht erwünscht.
+Wir treffen uns traditionell um *10 Uhr* auf der Wiese und gehen dann anschließend zusammen segeln oder motoren – wie jeder möchte. Der Tag soll Freude und Spaß verbreiten. Also sind alle „Streitigkeiten“, „Fiese Sprüche“ oder gar Schlägereien am Samstag nicht erwünscht.
 Stattdessen Lachen: Mit Euch. Über Euch. Über alles…  Hier und da ist uns doch allen schon mal etwas passiert, worüber man Jahre später lachen kann. Erzählt es.
 Oder der gute alte Lieblingswitz: kennen ihn alle schon?  Übrigens wird der beste Witz prämiert… 
 Oder der lustigste Spruch auf dem geschenkten Shirt welches schon lange im Schrank liegt und Ihr Euch gefragt habt, wann man das wohl tragen soll.  
