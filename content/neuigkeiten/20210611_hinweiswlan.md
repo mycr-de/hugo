@@ -1,8 +1,7 @@
 ---
 # Common-Defined params
 title: "WLAN"
-date: 2021-06-11T15:35:53+02:00
-date: "2017-08-21"
+date: "2021-06-11"
 description: "Neues WLAN in Betrieb"
 categories:
   - "Vereinsleben"
