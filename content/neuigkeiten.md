@@ -24,7 +24,9 @@ widgets: # Enable sidebar widgets in given order per page
 sitemap_hide: false # Do not add this page to the sitemap
 
 #(20210615_sommersonnenwende){{< relref neuigkeiten/20210615_sommersonnenwende.md >}}
+
 #(20210612_ordentlichemitgliederversammlung){{< relref neuigkeiten/20210612_ordentlichemitgliederversammlung.md >}}
+
 #(20210611_hinweiswlan){{< relref neuigkeiten/20210611_hinweiswlan.md >}}
 
 ---
