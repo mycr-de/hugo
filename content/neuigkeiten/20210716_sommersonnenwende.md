@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "Sommersonnenwende 2021"
-date: "2021-07-16"
+date: "2021-07-15"
 description: "Einladung zur Sommersonnenwende und Comedy Cup"
 categories:
   - "Vereinsleben"
