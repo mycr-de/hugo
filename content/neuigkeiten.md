@@ -23,8 +23,9 @@ widgets: # Enable sidebar widgets in given order per page
   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap
 
-#(WLAN){{< relref "neuigkeiten/wlan.md" >}}
+#(20210615_sommersonnenwende){{< relref neuigkeiten/20210615_sommersonnenwende.md >}}
+#(20210612_ordentlichemitgliederversammlung){{< relref neuigkeiten/20210612_ordentlichemitgliederversammlung.md >}}
+#(20210611_hinweiswlan){{< relref neuigkeiten/20210611_hinweiswlan.md >}}
 
-#(oMV Juni 2021){{< relref "neuigkeiten/oMV2021.md" >}}
 ---
 
