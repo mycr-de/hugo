@@ -7,7 +7,7 @@ description: "Einladung zur Sommersonnenwende und Comedy Cup"
 categories:
   - "Vereinsleben"
 tags:
-  - "WLAN"
+  - "Termine"
   - "Information"
 #menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
 
