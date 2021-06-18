@@ -1,11 +1,10 @@
-baseurl = "/"
+baseurl = "mycr.de"
 title = "Mecklenburgischer Yachtclub Rostock"
 languageCode = "de"
 DefaultContentLanguage = "de"
 paginate = "10" # Number of posts per page
 theme = "hugo-dpsg"
 pluralizeListTitles = "false"
-
 
 
 [Author] # Used in authorbox
@@ -45,8 +44,8 @@ widgets = ["search", "recent", "recent_photos", "categories", "taglist", "social
 #  twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
 #  authorbox = true # Show authorbox at bottom of pages if true
-#  toc = true # Enable Table of Contents
-#  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+#  toc = false # Enable Table of Contents
+  pager = false # Show pager navigation (prev/next links) at the bottom of pages if true
   indexPager = false # Show pager navigation on index page
 #  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   mainSections = ["Neuigkeiten", "Termine", "Verein"] # Specify section pages to show on home page and the "Recent articles" widget

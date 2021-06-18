@@ -1,18 +1,20 @@
 ---
 # Common-Defined params
-title: "Sommersonnenwende 2021"
-date: "2021-07-15"
-description: "Einladung zur Sommersonnenwende und Comedy Cup"
+title: "Sommersonnenwende"
+
+date: "2021-06-17"
+description: "Sommersonnenwende"
 categories:
   - "Vereinsleben"
 tags:
+  - "WLAN"
   - "Information"
 #menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
 thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
 thumbnail_hide_post: true # Hide thumbnail on single post view
-lead: "Einladung zur Sommersonnenwende und Comedy Cup" # Lead text
+lead: "Sommersonnenwende" # Lead text
 authorbox: false # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
