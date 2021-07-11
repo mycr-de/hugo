@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Cadet Weltmeisterschaft 2021"
 
-date: "2021-06-17"
+date: "2021-09-07"
 description: "Teilnahme an der Cadet Weltmeiterschaft 2021"
 categories:
   - "Vereinsleben"
@@ -27,6 +27,8 @@ sitemap_hide: false # Do not add this page to the sitemap
 ---
 
 Nach nunmehr gut zwei Jahren umstiegs- und corona-bedingter Abstinenz bei internationalen Regatten ist es nun endlich wieder so weit! 
+
+![Cadet Weltmeisterschaft Banner](/img/20210709_cadetweltmeisterschaft.jpg)
 
 Mit drei jungen Nachwuchsteams nehmen wir an der diesjährigen Cadet-Weltmeisterschaft teil. Auch wenn immer noch nicht allen Ländern aufgrund der verschiedenen Ausreise- und Einreisebeschränkungen eine Teilnahme möglich ist, werden wir Anfang August gemeinsam mit 60 anderen Booten aus 8 Ländern am Gardasee starten. 
 
