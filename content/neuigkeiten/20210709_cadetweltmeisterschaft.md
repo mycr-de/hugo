@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "Cadet Weltmeisterschaft 2021"
 
-date: "2021-07-11"
+date: "2021-07-09"
 description: "Teilnahme an der Cadet Weltmeiterschaft 2021"
 categories:
   - "Vereinsleben"
