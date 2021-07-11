@@ -36,3 +36,6 @@ Mit drei jungen Nachwuchsteams nehmen wir an der diesjährigen Cadet-Weltmeister
 Für unsere Teams ist dies die erste Regatta in einem internationalen Teilnehmerfeld. Sowohl durch die Teilnahme an der WM als auch an der internationalen Trainingswoche vor der Veranstaltung hoffen wir auf einen ordentlichen Leistungsschub und auch viele neue Kontakte bei unseren jungen Teams. Erfahrungsgemäß sind die Eindrücke, die die Kinder dabei erhalten Anreiz für intensiven Trainingseinsatz und erfolgreiche Regattateilnahmen in den nächsten Jahren. Wir sind gespannt, was uns erwartet. 
 
 Zur Vorbereitung werden wir im Juli zunächst noch eine Woche gemeinsam mit unserer gesamten Jugendgruppe in unser Vereinssommerlager fahren und dann geht es im direkten Anschluss nach Italien. Wir werden euch von unseren Erfahrungen berichten!
+
+* [Informationsmappe](/pdf/20210709_cadetweltmeisterschaft_informationsmappe.pdf)
+* [Anschreiben Sponsorensuche](/pdf/20210709_cadetweltmeisterschaft_anschreiben.pdf)
