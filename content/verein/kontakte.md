@@ -39,7 +39,7 @@ Gerne können sie sich bei speziellen Anliegen auch direkt an unsere Ansprechpar
 | Sicherheitswart | Wolfgang Falk | +493817952474 |	wolfgang.falk@mycr.de |
 | Segelwart |	Ole Albrecht | +49381681626 |	ole.albrecht@mycr.de |
 | Materialwart | Mirko Möller | +491723025954 |	mirko.moeller@mycr.de |
-| Hafenwart | Uwe Stapel | +49381699974, +491607804859 | uwe.stapel@mycr.de
+| Hafenwart | Uwe Stapel | +491607804859 | uwe.stapel@mycr.de
 | Pressewart | Harald Ahrendt | +4917661144489 | harald.ahrendt@mycr.de | 
 
 ## Jugend
