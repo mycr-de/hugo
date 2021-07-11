@@ -3,17 +3,18 @@
 title: "Cadet Weltmeisterschaft 2021"
 
 date: "2021-07-09"
-description: "Teilnahme an der Cadet Weltmeiterschaft 2021"
+description: "Drei Nachwuchsteams fahren zur Cadet Weltmeisterschaft"
 categories:
   - "Vereinsleben"
 tags:
   - "Information"
+  - "Jugend"
 #menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
 thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
 thumbnail_hide_post: true # Hide thumbnail on single post view
-lead: "Teilnahme an der Cadet Weltmeisterschaft 2021" # Lead text
+lead: "Drei Nachwuchsteams fahren zur Cadet Weltmeisterschaft" # Lead text
 authorbox: false # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
