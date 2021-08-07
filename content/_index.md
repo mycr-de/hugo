@@ -21,6 +21,7 @@ sidebar: "right" # Enable sidebar (on the right side) per page
 widgets: # Enable sidebar widgets in given order per page
 #  - "search"
   - "recent"
+  - "recent_photos"
   - "categories"
   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap

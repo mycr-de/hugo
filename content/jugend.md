@@ -12,7 +12,7 @@ menu: ["main"] # Optional, add page to a menu. Options: main, side, footer
 
 
 # Theme-Defined params
-thumbnail: "img/placeholder.jpg" # Thumbnail image
+thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
 thumbnail_hide_post: true # Hide thumbnail on single post view
 lead: "Jugendarbeit im Verein" # Lead text
 authorbox: false # Enable authorbox for specific page

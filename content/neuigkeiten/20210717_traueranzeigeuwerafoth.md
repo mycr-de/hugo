@@ -14,8 +14,8 @@ type: "Neuigkeiten"
 
 
 # Theme-Defined params
-thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
-thumbnail_hide_post: true # Hide thumbnail on single post view
+thumbnail: "img/20210717_traueranzeigeuwerafoth.jpg" # Thumbnail image
+thumbnail_hide_post: false # Hide thumbnail on single post view
 lead: "Traueranzeige Uwe (1934 - 2021)" # Lead text
 authorbox: false # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
@@ -33,7 +33,5 @@ sitemap_hide: false # Do not add this page to the sitemap
 Uwe war ein jahrzehntelanges und sehr geschätztes Mitglied und hat durch sein Engagement und seine sportlichen Erfolge den Verein maßgeblich mit aufgebaut, gestaltet und mitgeprägt.
 
 Wir werden Dich und Dein Andenken bewahren und unser Mitgefühl gilt Deiner lieben Familie.
-
-![Traueranzeige Uwe Rafoth](/img/20210717_traueranzeigeuwerafoth.jpg)
 
 Die Mitglieder und Freunde des Mecklenburgischen Yachtclub Rostock e.V.

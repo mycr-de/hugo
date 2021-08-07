@@ -22,6 +22,7 @@ menu: ["main", "side"] # Optional, add page to a menu. Options: main, side, foot
 widgets: # Enable sidebar widgets in given order per page
 #  - "search"
   - "recent"
+  - "recent_photos"
   - "taglist"
   - "categories"
 #sitemap_hide: false # Do not add this page to the sitemap

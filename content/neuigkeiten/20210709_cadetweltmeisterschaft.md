@@ -6,6 +6,7 @@ date: "2021-07-09"
 description: "Drei Nachwuchsteams fahren zur Cadet Weltmeisterschaft"
 categories:
   - "Vereinsleben"
+  - "Jugend"
 tags:
   - "Information"
   - "Jugend"
@@ -15,8 +16,8 @@ type: "Neuigkeiten"
 
 
 # Theme-Defined params
-thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
-thumbnail_hide_post: true # Hide thumbnail on single post view
+thumbnail: "img/20210709_cadetweltmeisterschaft.jpg" # Thumbnail image
+thumbnail_hide_post: false # Hide thumbnail on single post view
 lead: "Drei Nachwuchsteams fahren zur Cadet Weltmeisterschaft" # Lead text
 authorbox: false # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
@@ -32,8 +33,6 @@ sitemap_hide: false # Do not add this page to the sitemap
 ---
 
 Nach nunmehr gut zwei Jahren umstiegs- und corona-bedingter Abstinenz bei internationalen Regatten ist es nun endlich wieder so weit! 
-
-![Cadet Weltmeisterschaft Banner](/img/20210709_cadetweltmeisterschaft.jpg)
 
 Mit drei jungen Nachwuchsteams nehmen wir an der diesjährigen Cadet-Weltmeisterschaft teil. Auch wenn immer noch nicht allen Ländern aufgrund der verschiedenen Ausreise- und Einreisebeschränkungen eine Teilnahme möglich ist, werden wir Anfang August gemeinsam mit 60 anderen Booten aus 8 Ländern am Gardasee starten. 
 

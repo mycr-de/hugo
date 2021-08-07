@@ -15,8 +15,8 @@ type: "Neuigkeiten"
 
 
 # Theme-Defined params
-thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
-thumbnail_hide_post: true # Hide thumbnail on single post view
+thumbnail: "img/20210717_traueranzeigeuwerafoth.jpg" # Thumbnail image
+thumbnail_hide_post: false # Hide thumbnail on single post view
 lead: "Uwe Rafoth (1934 - 2021)" # Lead text
 authorbox: false # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
