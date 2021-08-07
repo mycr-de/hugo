@@ -1,6 +1,8 @@
 ---
 # Common-Defined params
 title: "Termine"
+weight: 2
+
 date: "2021-06-01"
 description: "Alle wichtigen Termine"
 categories:

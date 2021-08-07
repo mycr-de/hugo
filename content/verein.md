@@ -2,6 +2,7 @@
 # Common-Defined params
 title: "Verein"
 date: "2017-08-21"
+weight: 5
 description: "Example article description"
 categories:
   - "Vereinsleben"
