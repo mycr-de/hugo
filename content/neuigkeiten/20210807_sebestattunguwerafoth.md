@@ -36,5 +36,3 @@ Vielen Dank\
 Susanne und Axel Rafoth
 
 
-![Traueranzeige Uwe Rafoth](/img/20210717_traueranzeigeuwerafoth.jpg)
-
