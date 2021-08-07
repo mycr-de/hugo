@@ -28,6 +28,8 @@ sitemap_hide: false # Do not add this page to the sitemap
 
 Wir freuen uns über Gastlieger, die an unseren Stegen festmachen wollen. Von hier lässt sich Rostock und seine Umgebung gut erkunden oder einfach die ruhige Lage des Gehlsdorfer Ufers geniessen.
 
+<!--more--> 
+
 [Link zu den Kontakten]({{< ref "/verein/kontakte" >}} "Kontakte")
 
 ## Ausstattung

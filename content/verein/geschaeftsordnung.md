@@ -31,6 +31,9 @@ sitemap_hide: false # Do not add this page to the sitemap
 
 Auf der Grundlage des § 9 der am 9. März 1990 beschlossenen Satzung gibt sich der Mecklenburgische Yachtclub Rostock e.V. folgende Geschäftsordnung.
 
+<!--more--> 
+
+
 ## § 1
 Die Geschäftsordnung hat den Zweck, das innere Vereinsleben des Clubs zu regeln. Sie gliedert sich in die Bereiche:
 - Vorstand

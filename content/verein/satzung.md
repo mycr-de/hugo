@@ -36,6 +36,8 @@ Der am 9. März 1990 gegründete Verein trägt den Namen
 
 Der Verein führt die Abkürzung MYCR
 
+<!--more--> 
+
 Der Sitz des Vereins ist Rostock-Gehlsdorf, Uferpromenade 5a. Der Verein betrachtet sich als Nachfolger des am 24.11.1884 gegründeten Clubs gleichen Namens und gleichen Sitzes. Der Stander des Vereins zeigt einen schwarzen schreitenden Greif auf goldgelbem Grund mit den Rostocker Farben blau weiß rot senkrecht übereinander am Vorliek. Der Gerichtsstand ist Rostock. Der Verein ist in das Vereinsregister beim Amtsgericht Rostock eingetragen.
 
 ## §2 Zweck des Vereins

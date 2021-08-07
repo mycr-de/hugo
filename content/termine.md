@@ -29,6 +29,7 @@ widgets: # Enable sidebar widgets in given order per page
   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap
 ---
+<!--more--> 
 
 
 | Datum  | Veranstaltung | 

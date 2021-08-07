@@ -30,6 +30,7 @@ sitemap_hide: false # Do not add this page to the sitemap
 Seit vielen Jahren ist die Nachwuchsarbeit im Mecklenburgischen Yachtclub ein wichtiger Bestandteil. Bei uns sammeln etwa 30 Kinder und Jugendliche die ersten Erfahrungen auf dem Wasser und lernen die wichtigsten Handgriffe eines (Regatta-)Seglers. Dabei werden sie von unseren qualifizierten ehrenamtlichen Trainern unterstützt und angeleitet. Für das Training stehen Vereinsboote verschiedener Klassen zur Verfügung. Verstärkung durch junge Mitsegler ist jederzeit willkommen!
 
 Eure Ansprechpartner sind über die gemeinsame E-Mail Adresse trainer@mycr.de zu erreichen.
+<!--more--> 
 
 
 ### Aktivitäten

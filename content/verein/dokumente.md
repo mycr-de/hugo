@@ -28,6 +28,9 @@ sitemap_hide: false # Do not add this page to the sitemap
 
 ---
 
+<!--more--> 
+
+
 [Satzung des MYCR (ab 5.6.2021)](../../pdf/1.8_Satzung_des_MYCR_ab_05.06.2021_FINAL.pdf)
 
 [Geschäftsordnung des MYCR (ab 5.6.2021)](../../pdf/2.6_Geschäftsordnung_des_MYCR_ab_5.6.2021_FINAL.pdf)

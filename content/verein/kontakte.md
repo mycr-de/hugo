@@ -30,6 +30,9 @@ sitemap_hide: false # Do not add this page to the sitemap
 ---
 Gerne können sie sich bei speziellen Anliegen auch direkt an unsere Ansprechpartner wenden
 
+<!--more--> 
+
+
 ## Ansprechpartner
 | Funktion        | Name    | Telefon | E-Mail |
 | ----------------| ------- |------ |------ |

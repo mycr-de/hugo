@@ -27,6 +27,8 @@ sitemap_hide: false # Do not add this page to the sitemap
 
 Die nachfolgende Datenschutzerklärung gilt für die Nutzung unseres Online-Angebots [www.mycr.de] (nachfolgend „Website“). Wir messen dem Datenschutz große Bedeutung bei. Die Erhebung und Verarbeitung Ihrer personenbezogenen Daten geschieht unter Beachtung der geltenden datenschutzrechtlichen Vorschriften, insbesondere der Datenschutzgrundverordnung (DSGVO).
 
+<!--more--> 
+
 ## 1. Verantwortlicher
 Verantwortlicher für die Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten im Sinne von Art. 4 Nr. 7 DSGVO ist der eingetragene Vorstand des Mecklenburgischen Yachtclub Rostock e.V., Uferpromenade 5a in 18147 Rostock (Kontakt : vorstand@mycr.de). Sofern Sie der Erhebung, Verarbeitung oder Nutzung Ihrer Daten durch uns nach Maßgabe dieser Datenschutzbestimmungen insgesamt oder für einzelne Maßnahmen widersprechen wollen, können Sie Ihren Widerspruch an die Verantwortlichen richten. Sie können diese Datenschutzerklärung jederzeit speichern und ausdrucken.
 

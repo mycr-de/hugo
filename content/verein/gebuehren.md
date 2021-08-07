@@ -38,6 +38,8 @@ sitemap_hide: false # Do not add this page to the sitemap
 | Ordentliches Mitglied ermäßigt (Lehrlinge, Azubis, Studenten,
 | Freiwilligendienst, Rentner ohne Boot) | 90,00 € / Jahr |
 
+<!--more--> 
+
 ## Zusatzbeitrag Sommer (nur Bootseigner)
 
 
