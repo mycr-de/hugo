@@ -11,6 +11,9 @@ tags:
   - "Information"
 #menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
 
+type: "Neuigkeiten"
+
+
 # Theme-Defined params
 thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
 thumbnail_hide_post: true # Hide thumbnail on single post view
@@ -20,8 +23,9 @@ pager: false # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
 widgets: # Enable sidebar widgets in given order per page
-  - "search"
+#  - "search"
   - "recent"
+  - "categories"
   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap
 

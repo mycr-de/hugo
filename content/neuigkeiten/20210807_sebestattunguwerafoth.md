@@ -8,7 +8,11 @@ categories:
   - "Vereinsleben"
 tags:
   - "Information"
+  - "Termine"
 #menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
+
+type: "Neuigkeiten"
+
 
 # Theme-Defined params
 thumbnail: "img/MYCR-Stander-wehend-100.png" # Thumbnail image
@@ -19,8 +23,9 @@ pager: false # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
 widgets: # Enable sidebar widgets in given order per page
-  - "search"
+#  - "search"
   - "recent"
+  - "categories"
   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap
 
@@ -30,7 +35,7 @@ Liebe Freunde und Mitglieder,
 
 die Seebestattung für unser jahrzehntelanges Mitglied Uwe Rafoth findet im engsten Familienkreis am 13.8.2021 auf MS "Jan Maat" statt. Die "Jan Maat" legt um 10:00 Uhr im Alten Strom ab. Wer als Begleitboot / Geschwaderfahrt mitfahren möchte, kann gerne ebenfalls 10:00 Uhr die Molenköpfe passieren.
 
-Zur Trauerfeier treffen wir alle uns dann um 15:30 Uhr im Vereinshaus. wir bitten darum, von Blumengeschenken Abstand zu nehmen und statt dessen der DGzRS eine kleine Spende in ihr Schiffchen zukommen zu lassem. Eine Rückmeldung über SMS an 0172 3297024 würde uns die Planung erleichtern. 
+Zur Trauerfeier treffen wir alle uns dann um 15:30 Uhr im Vereinshaus. Wir bitten darum, von Blumengeschenken Abstand zu nehmen und statt dessen der DGzRS eine kleine Spende in ihr Schiffchen zukommen zu lassem. Eine Rückmeldung über SMS an 0172 3297024 würde uns die Planung erleichtern. 
 
 Vielen Dank\
 Susanne und Axel Rafoth

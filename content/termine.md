@@ -1,7 +1,7 @@
 ---
 # Common-Defined params
 title: "Termine"
-date: "2017-08-21"
+date: "2021-06-01"
 description: "Alle wichtigen Termine"
 categories:
   - "Vereinsleben"
@@ -10,6 +10,7 @@ tags:
   - "Termine"
   - "Information"
 menu: ["main", "side", "footer"] # Optional, add page to a menu. Options: main, side, footer
+
 
 # Theme-Defined params
 thumbnail: "img/placeholder.jpg" # Thumbnail image
@@ -20,8 +21,9 @@ pager: false # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
 sidebar: "right" # Enable sidebar (on the right side) per page
 widgets: # Enable sidebar widgets in given order per page
-  - "search"
+#  - "search"
   - "recent"
+  - "categories"
   - "taglist"
 sitemap_hide: false # Do not add this page to the sitemap
 ---

@@ -5,6 +5,7 @@ DefaultContentLanguage = "de"
 paginate = "10" # Number of posts per page
 theme = "hugo-dpsg"
 pluralizeListTitles = "false"
+SidebarRecentLimit = 5
 
 
 [Author] # Used in authorbox
@@ -27,20 +28,21 @@ text = "[Impressum](/imprint)" # Extra text in footer row, understands markdown
 [Params.sidebar]
 home = "right" # Configure layout for home page
 list = "right"  # Configure layout for list pages
-single = false # Configure layout for single pages
+single = "right" # Configure layout for single pages
 # Enable widgets in given order
-widgets = ["search", "recent", "recent_photos", "categories", "taglist", "social", "languages"]
+widgets = ["recent", "recent_photos", "categories", "taglist"]
 # alternatively "ddg-search" can be used, to search via DuckDuckGo
 # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
-
+[Params.widgets]
+recent_num = 5 # Set the number of articles in the "Recent articles" widget
+tags_counter = true # Enable counter for each tag in "Tags" widget
 
 [Params]
-
 #  description = "Welcome to our scout group!" # Site description. Used in meta description
 #  copyright = "DGSP local group" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
-#  schema = true # Enable Schema
+ schema = true # Enable Schema
 #  twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
 #  authorbox = true # Show authorbox at bottom of pages if true
@@ -49,8 +51,9 @@ widgets = ["search", "recent", "recent_photos", "categories", "taglist", "social
   indexPager = false # Show pager navigation on index page
 #  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   mainSections = ["Neuigkeiten", "Termine", "Verein"] # Specify section pages to show on home page and the "Recent articles" widget
-#  photosSections = ["photos"] # Specify section pages to show on home page and the "Recent photos" widget
+photosSections = ["photos"] # Specify section pages to show on home page and the "Recent photos" widget
   dateformat = "02.01.2006" # Change the format of dates
 #  customCSS = ["css/custom.css"] # Include custom CSS files
 #  customJS = ["js/custom.js"] # Include custom JS files
 #  customPartial = "piwik.html" # Include custom partials, e.g. tracking codes
+  post_meta = ["date", "categories"] # Order of post meta information
