@@ -31,6 +31,33 @@ Seit vielen Jahren ist die Nachwuchsarbeit im Mecklenburgischen Yachtclub ein wi
 
 Eure Ansprechpartner sind über die gemeinsame E-Mail Adresse trainer@mycr.de zu erreichen.
 
+
+### Aktivitäten
+
+Im MYCR gibt es im Jugendbereich viel zu erleben. Im Sommer sind wir natürlich hauptsächtlich auf dem Wassser, aber auch im Winter gibt es zahlreiche Höhepunkte.
+
+#### Wintersaison
+
+- Winterlager mit Ski- und Snowboardfahren in den Winterschulferien
+- Regelmäßiger Theorieunterricht zu Booten, Segelmanövern, Taktik und Regelkunde
+- Sport in der Turnhalle (in Gruppen nach Altersstufe)
+- Weihnachtsfeier gemeinsam mit Eltern und Geschwistern im Dezember
+- Überholung der Boote und Ausrüstung für die Sommersaison
+- Sportbootführerschein und Seminare für angehende Übungsleiter, Wettfahrtleiter, Schiedsrichter (Fortgeschrittene)
+- Teilnahmemöglichkeit beim Athletikwettkampf "Stärkster Segler von MV"
+
+#### Sommersaison
+
+- Ostertrainingslager für die Fortgeschrittenen
+- Regelmäßiges Training auf der Warnow
+- Sommerlager mit Segeltraining, Segeltouren, Ausflügen und eine Lagermeisterschaft
+- Teilnahme an den Regatten der Rostocker Stadtmeisterschaft (Anfänger u. Fortgechrittene)
+- Teilnahme an Auswärtsregatten (Anfänger u. Fortgeschrittene)
+- Qualifizierung und Teilnahme an Meisterschaften (Fortgeschrittene)
+- Durchführung unserer MYCR Jugendregatten
+- Absolvierung des Jüngstensegelscheines (im Sommerlager)
+
+
 ### Trainingszeiten
 Die genaue Planung und Einteilung in die Gruppen werden je beim Training besprochen und per E-Mail an die Eltern und Kinder verteilt.
 
