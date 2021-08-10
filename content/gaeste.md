@@ -39,7 +39,7 @@ Wir freuen uns über Gastlieger, die an unseren Stegen festmachen wollen. Von hi
 - Wasser- & Stromanschluss
 - WC und Duschen
 - Müll- und Abwasserentsorgung
-- Schienenslip und Mastenkran
+- Schienenslip, Kran und Mastenkran
 
 ## Preise
 
