@@ -150,4 +150,4 @@ Wir gehen sehr individuell auf die Möglichkeiten und Voraussetzungen eurer Kind
 
 Für Kinder- und Jugendliche fällt ein Jahresbeitrag von 60 EUR für die Vereinsmitgliedschaft an. Während unserer Vereinsarbeit seid ihr darüber ohne weitere Kosten automatisch Haftpflicht- und Unfallversichert. Für die Teilnahme am Training und die Nutzung der Vereinsboote gibt es einen Zusatzbeitrag von 61 EUR (Optimist/Cadet) bzw. 71 EUR (420er/29er). Der einmalige Aufnahmebeitrag beträgt 15 EUR. Für 121 EUR bzw. 131 EUR im Jahr könnt ihr also bei uns am Jugendsegeln incl. Bereitstellung eines vereinseigenen Bootes teilnehmen.
 
-Meldet euch gern bei uns per Telefon / E-Mail siehe [Flyer](./pdf/MYCR-NachwuchssucheFlyer.pdf).
+Meldet euch gern bei uns per Telefon / E-Mail siehe [Flyer](/pdf/MYCR-NachwuchssucheFlyer.pdf).
