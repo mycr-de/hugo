@@ -36,3 +36,6 @@ Hallo, liebe Freunde des sportlichen Segelns.
 Am Samstag den 11. September 2021 ist es wieder soweit: dann startet die 58. Auflage der legendären Regatta "Blaues Band der Warnow" des MYCR.
 
 Alle wichtigen Details, den Ablauf und die Ausschreibung findet ihr im Anhang. Bitte meldet euch via RaceOffice bis zum 4. September an.
+
+* [Ausschreibung (PDF)](/pdf/20210812_blauesbandlangstrecke2021.pdf)
+* [Anmeldung (RaceOffice)]
