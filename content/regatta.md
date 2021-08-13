@@ -8,7 +8,6 @@ description: "Informationen zu Regatten"
 categories:
 tags:
   - "Verein"
-  - "Information"
   - "Jugend"
 menu: ["main", "side"] # Optional, add page to a menu. Options: main, side, footer
 
