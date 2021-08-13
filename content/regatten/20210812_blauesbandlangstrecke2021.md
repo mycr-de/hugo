@@ -1,9 +1,9 @@
 ---
 # Common-Defined params
-title: "Blaues Band der Warnow 2021 (Langstrecke) - Einladung"
+title: "Blaues Band (Langstrecke) 2021"
 
 date: "2021-08-06"
-description: "Blaues Band der Warnow 2021 (Langstrecke) - Einladung"
+description: "Blaues Band (Langstrecke) 2021"
 categories:
   - "Vereinsleben"
 tags:
@@ -17,7 +17,7 @@ type: "Regatten"
 # Theme-Defined params
 thumbnail: "img/20210812_blauesbandlangstrecke2021.jpg" # Thumbnail image
 thumbnail_hide_post: false # Hide thumbnail on single post view
-lead: "Ausschreibung und Meldeverfahren" # Lead text
+lead: "Einladung zum Blauen Band der Warnow" # Lead text
 authorbox: false # Enable authorbox for specific page
 pager: false # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
