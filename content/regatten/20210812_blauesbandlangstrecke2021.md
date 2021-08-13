@@ -15,7 +15,7 @@ type: "Regatten"
 
 
 # Theme-Defined params
-thumbnail: "img/20210812_blauesbandlangstrecke2021" # Thumbnail image
+thumbnail: "img/20210812_blauesbandlangstrecke2021.jpg" # Thumbnail image
 thumbnail_hide_post: false # Hide thumbnail on single post view
 lead: "Ausschreibung und Meldeverfahren" # Lead text
 authorbox: false # Enable authorbox for specific page
