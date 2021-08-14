@@ -29,7 +29,7 @@ sitemap_hide: false # Do not add this page to the sitemap
 
 Beim Mecklenburgischen Yachtclub Rostock e.V. wird das Vereinsleben besonders groß geschrieben: Viele Veranstaltungen am und auf dem Wasser bieten Gelegenheit, Freizeit und Sport miteinander zu gestalten. Auch für die Pflege und Erhaltung unseres Geländes und unserer Einrichtung wird gemeinschaftlich Sorge getragen. Und nicht zuletzt trifft man immer jemanden für einen kleinen Schnack auf dem Steg...
 
-![Clubhaus des MYCR (2012)](/img/MYCR_Clubhaus2012.png)
+![Clubhaus des MYCR (2012)](/img/MYCR_Clubhaus2012.jpg)
 
 In eigener Sache: Dies ist die neue Webpräsens des Meckenburgischen Yachtclubs Rostock. Bitte habt dafür Verständnis, dass noch nicht alle Inhalte übertragen worden sind. Die alte Seite findet ihr unter http://archiv.mycr.de.
 
