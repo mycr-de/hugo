@@ -38,4 +38,5 @@ Am Samstag den 11. September 2021 ist es wieder soweit: dann startet die 58. Auf
 Alle wichtigen Details, den Ablauf und die Ausschreibung findet ihr im Anhang. Bitte meldet euch via RaceOffice bis zum 4. September an.
 
 * [Ausschreibung (PDF)](/pdf/20210812_blauesbandlangstrecke2021.pdf)
+* [Segelanweisung (PDF)](/pdf/20210812_blauesbandlangstrecke2021_segelanweisung.pdf)
 * [Anmeldung (RaceOffice)](https://www.raceoffice.org/MYCR-BlauesBand2021)
